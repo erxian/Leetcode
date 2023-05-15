@@ -1,4 +1,4 @@
-package org.example;
+package EasySorting;
 
 import java.util.HashMap;
 import java.util.Map;

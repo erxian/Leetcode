@@ -1,4 +1,4 @@
-package org.example;
+package EasySorting;
 
 import java.util.ArrayList;
 import java.util.Arrays;

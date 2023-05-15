@@ -1,4 +1,4 @@
-package org.example;
+package EasySorting;
 
 public class MergeSortedArray {
 
